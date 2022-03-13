@@ -107,5 +107,4 @@ print(response.text)
 
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) <br/>```@lame impala#0304```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trapmorrissey&show_icons=true&theme=dark)
-# mongo-cloud-atlas-api
+![toms stats](https://github-readme-stats.vercel.app/api?username=trapmorrissey&show_icons=true&theme=dark)
